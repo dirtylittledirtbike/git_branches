@@ -1,3 +1,3 @@
 # master branch
 # develop branch
-# still working on old feature2
+# starting feature2 from scratch
