@@ -1,3 +1,1 @@
-# master branch
-# develop branch
-# starting feature2 from scratch
+This is a dash app for visualizing covid related risk for various group sizes in a particular county
